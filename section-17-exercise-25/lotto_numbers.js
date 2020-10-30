@@ -1,0 +1,1 @@
+let lottoNumbers = [15,80,21,19,11,1]
